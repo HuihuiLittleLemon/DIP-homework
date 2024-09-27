@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: run_point_transform.py",
+            "type": "python",
+            "request": "launch",
+            "program": "run_point_transform.py",
+            "env": {},
+            "console": "integratedTerminal",
+            "args": [],
+            "cwd": "/home/xixi/soft/DIP-homework/Assignments/01_ImageWarping"
+        }
+    ]
+}
