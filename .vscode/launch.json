@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Assignments/01_ImageWarping/run_point_transform.py",
+            "type": "python",
+            "request": "launch",
+            "program": "Assignments/01_ImageWarping/run_point_transform.py",
+            "env": {},
+            "console": "integratedTerminal",
+            "args": [],
+            "cwd": "/home/xixi/soft/DIP-homework"
+        },
+        {
+            "name": "Python: ./Assignments/02_DIPwithPyTorch/run_blending_gradio.py",
+            "type": "python",
+            "request": "launch",
+            "program": "./Assignments/02_DIPwithPyTorch/run_blending_gradio.py",
+            "env": {},
+            "console": "integratedTerminal",
+            "args": [],
+            "cwd": "/home/xixi/soft/DIP-homework"
+        }
+    ]
+}
