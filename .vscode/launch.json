@@ -20,6 +20,16 @@
             "console": "integratedTerminal",
             "args": [],
             "cwd": "/home/xixi/soft/DIP-homework"
+        },
+        {
+            "name": "Python: ./train.py",
+            "type": "python",
+            "request": "launch",
+            "program": "./train.py",
+            "env": {},
+            "console": "integratedTerminal",
+            "args": [],
+            "cwd": "/home/xixi/soft/DIP-homework/Assignments/02_DIPwithPyTorch/Pix2Pix"
         }
     ]
 }
