@@ -2,3 +2,4 @@ Assignments/02_DIPwithPyTorch/Pix2Pix/datasets
 Assignments/02_DIPwithPyTorch/Pix2Pix/train_results
 Assignments/02_DIPwithPyTorch/Pix2Pix/val_results
 Assignments/02_DIPwithPyTorch/Pix2Pix/checkpoints
+model.py
